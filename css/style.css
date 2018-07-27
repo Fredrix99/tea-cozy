@@ -94,7 +94,7 @@ font-weight: bold;
 
 .Locations-content{
   display: flex;
-  justify-content: center;
+  justify-content: flex-end;
   flex-wrap: wrap;
 }
 .Location{
